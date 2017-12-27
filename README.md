@@ -7,4 +7,4 @@ The objective of the present project is to use state-of-the-art Satellite based 
 
 ## Training Certificate
 
-![alt text](./)
+![alt text](https://github.com/yugkrish/InternshipProject/blob/master/IMG_E2416.JPG)
