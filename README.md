@@ -4,3 +4,7 @@ I did my Summer Internship project at **Oil And Natural Gas Corporation Limited 
 
 ## Objective
 The objective of the present project is to use state-of-the-art Satellite based communication systems in ONGC’s onshore field Installations consisting of Production, Drilling and Exploration sites to ensure reliable data and voice connectivity to the above field installations.
+
+## Training Certificate
+
+![alt text](./)
